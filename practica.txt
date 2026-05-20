@@ -1,7 +1,1 @@
-Mi primera practica con Git y GitHub
-
-Nombre: Nicolas Mora 
-Curso: Cuarto Semestre
-Fecha: 5/20/2026
-
-Estoy aprendiendo a usar control de versiones 
+"Mi primera practica con Git" 
